@@ -1,0 +1,5 @@
+*.txt
+*.csv
+config.ini
+/.idea/
+keywords-search.iml
