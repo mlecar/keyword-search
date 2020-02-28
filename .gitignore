@@ -2,4 +2,4 @@
 *.csv
 config.ini
 /.idea/
-keywords-search.iml
+/keyword-search.iml
